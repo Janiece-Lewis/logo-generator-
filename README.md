@@ -35,7 +35,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ```
 ## walkthrough
-[walkthrough](https://www.awesomescreenshot.com/video/18536420?key=ae057849b0ae23bda176258450564494)
+[walkthrough](https://www.awesomescreenshot.com/video/18570487?key=afd7d86dad064ad3ad924a1e50acf7c9)
 
 
 
